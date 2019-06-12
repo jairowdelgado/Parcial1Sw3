@@ -1,0 +1,149 @@
+[
+    {
+     "nombreMateria":"Calculo I"
+    ,"semestre":"1"
+    ,"creditos":"4"
+    ,"codigo":"102"
+    ,"estado":"0"
+    },
+    {
+        "nombreMateria":"Introduccion a la Ingenieria de Sistemas"
+       ,"semestre":"1"
+       ,"creditos":"1"
+       ,"codigo":"103"
+       ,"estado":"0"
+    },
+    {
+        "nombreMateria":"Introduccion a la Informatica"
+       ,"semestre":"1"
+       ,"creditos":"3"
+       ,"codigo":"119"
+       ,"estado":"0"
+    },
+    {
+        "nombreMateria":"Lectura y Escritura"
+       ,"semestre":"1"
+       ,"creditos":"2"
+       ,"codigo":"118"
+       ,"estado":"0"
+    },
+    {
+        "nombreMateria":"Calculo II"
+       ,"semestre":"2"
+       ,"creditos":"4"
+       ,"codigo":"104"
+       ,"estado":"0"
+    },
+    {
+        "nombreMateria":"Algebra Lineal"
+       ,"semestre":"2"
+       ,"creditos":"4"
+       ,"codigo":"105"
+       ,"estado":"0"
+    },
+    {
+        "nombreMateria":"Mecanica"
+       ,"semestre":"2"
+       ,"creditos":"3"
+       ,"codigo":"106"
+       ,"estado":"0"
+    },
+    {
+        "nombreMateria":"Programacion Orientada a Objetos"
+       ,"semestre":"2"
+       ,"creditos":"3"
+       ,"codigo":"107"
+       ,"estado":"0"
+    },
+    {
+        "nombreMateria":"Laboratorio de Programacion Orientada a Objetos"
+       ,"semestre":"1"
+       ,"creditos":"1"
+       ,"codigo":"108"
+       ,"estado":"0"
+    },
+    {
+        "nombreMateria":"Laboratorio deBases de Datos II"
+       ,"semestre":"5"
+       ,"creditos":"1"
+       ,"codigo":"120"
+       ,"estado":"0"
+    },
+    {
+        "nombreMateria":"Estructuras de Datos I"
+       ,"semestre":"3"
+       ,"creditos":"3"
+       ,"codigo":"109"
+       ,"estado":"0"
+    },
+    {
+        "nombreMateria":"Laboratorio de Estructuras de Datos I"
+       ,"semestre":"3"
+       ,"creditos":"1"
+       ,"codigo":"110"
+       ,"estado":"0"
+    },
+    {
+        "nombreMateria":"Electromagnetismo"
+       ,"semestre":"3"
+       ,"creditos":"3"
+       ,"codigo":"111"
+       ,"estado":"0"
+    },
+    {
+        "nombreMateria":"Laboratorio de Electromagnetismo"
+       ,"semestre":"3"
+       ,"creditos":"1"
+       ,"codigo":"112"
+       ,"estado":"0"
+    },
+    {
+        "nombreMateria":"Ecuaciones Diferenciales Ordinarias"
+       ,"semestre":"4"
+       ,"creditos":"4"
+       ,"codigo":"113"
+       ,"estado":"0"
+    },
+    {
+        "nombreMateria":"Vibraciones y Ondas"
+       ,"semestre":"4"
+       ,"creditos":"4"
+       ,"codigo":"114"
+       ,"estado":"0"
+    },
+    {
+        "nombreMateria":"Bases de Datos I"
+       ,"semestre":"4"
+       ,"creditos":"3"
+       ,"codigo":"121"
+       ,"estado":"0"
+    },
+    {
+        "nombreMateria":"Laboratorio de Bases de Datos"
+       ,"semestre":"4"
+       ,"creditos":"3"
+       ,"codigo":"115"
+       ,"estado":"0"
+    },
+    {
+        "nombreMateria":"Estructuras de Datos II"
+       ,"semestre":"4"
+       ,"creditos":"3"
+       ,"codigo":"122"
+       ,"estado":"0"
+    },
+    {
+        "nombreMateria":"Laboratorio de Estructuras de Datos II"
+       ,"semestre":"4"
+       ,"creditos":"1"
+       ,"codigo":"116"
+       ,"estado":"0"
+    },
+    {
+        "nombreMateria":"Bases de Datos II"
+       ,"semestre":"5"
+       ,"creditos":"3"
+       ,"codigo":"117"
+       ,"estado":"0"
+    }
+]
